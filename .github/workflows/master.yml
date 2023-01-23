@@ -4,7 +4,7 @@ on:
       -main
 name: 🚀 Deploy website on push
 jobs:
-  FTP-Deploy-Action:
+  
     name: FTP-Deploy-Action
     runs-on: ubuntu-latest
  
